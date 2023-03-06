@@ -3,12 +3,12 @@ entries:
   ecg-center-fe:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-06T16:35:03.662307+09:00"
+    created: "2023-03-06T18:05:21.266753+09:00"
     description: A Helm chart for Kubernetes
-    digest: 4e871141ea50c938688bae468debae4f700ebe1ca7973f8a7efcb295e111b699
+    digest: 665df2b31aa72611a2c044440540ddd7da7fe3c7443b0ad512e75019b9506a11
     name: ecg-center-fe
     type: application
     urls:
-    - ecg-center-fe-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-03-06T16:35:03.661533+09:00"
+    - ecg-center-fe-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-03-06T18:05:21.26604+09:00"
